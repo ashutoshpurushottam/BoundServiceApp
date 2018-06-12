@@ -7,5 +7,5 @@ Service to Activity communication.
 
 ## Note
 
-This is an app written for teaching purpose. Please do not use for 
+This is an app written for teaching purpose. Please do not use this code for 
 any proudction app. 
