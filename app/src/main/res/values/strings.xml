@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bound Service App</string>
+    <string name="download">Download</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="play_message">Hit Play/Pause to play or pause jingle</string>
+</resources>
