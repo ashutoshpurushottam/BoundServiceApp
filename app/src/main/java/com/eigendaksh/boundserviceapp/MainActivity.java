@@ -22,7 +22,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = MainActivity.class.getSimpleName();
-    private String KEY_IS_PLAYING = "is_playing";
+    private String KEY_IS_PLAYING = "IS_PLAYING";
 
     private Button playButton;
 
